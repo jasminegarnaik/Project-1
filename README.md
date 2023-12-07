@@ -1,2 +1,2 @@
 # Project-1
-My first project of web development
+My first Web Development project
